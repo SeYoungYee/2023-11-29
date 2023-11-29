@@ -19,4 +19,5 @@
 [영남이공대학교](http://www.ync.ac.kr)
 
 
-![프로필 이미지](C:/Users/parks/OneDrive/바탕 화면/핑구.jpg)
+![핑구](https://github.com/SeYoungYee/2023-11-29/assets/131146693/a1d99667-ce9b-49ad-8daa-58bb077b5c16)
+
