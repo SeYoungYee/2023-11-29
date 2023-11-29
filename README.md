@@ -17,3 +17,6 @@
 
 ---
 [영남이공대학교](http://www.ync.ac.kr)
+
+
+![프로필 이미지](C:/Users/parks/OneDrive/바탕 화면/핑구.jpg)
